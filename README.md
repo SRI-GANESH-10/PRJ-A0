@@ -9,6 +9,7 @@
 *itallic type* 
 
 **Bold Type**
+
 ***Both Types***
 
 * fruits
@@ -35,6 +36,8 @@ s.no|Name|ID no
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
  :grinning:
+ 
+~~this is strike~~
 
 
 
