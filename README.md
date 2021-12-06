@@ -9,7 +9,7 @@
 *itallic type* 
 
 **Bold Type**
-
+~~This was mistaken text~~
 ***Both Types***
 
 * fruits
@@ -34,3 +34,8 @@ s.no|Name|ID no
 3|Khanna|143
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+ :grinning:
+
+
+
