@@ -9,7 +9,6 @@
 *itallic type* 
 
 **Bold Type**
-~~This was mistaken text~~
 ***Both Types***
 
 * fruits
